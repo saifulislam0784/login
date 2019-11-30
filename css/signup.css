@@ -1,0 +1,65 @@
+*{
+	margin: 0px;
+}
+
+body{
+
+	font-family: 'Roboto', sans-serif;
+	background: url(../img/bg.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.container{
+
+	width: 350px;
+	margin: 10% auto;
+	background-color: #F76806;
+}
+
+.sign-section{
+
+	padding: 20px;
+	display: block;
+
+}
+
+.sign-section h2{
+
+	text-align: center;
+}
+
+.form-control{
+
+	width: 90%;
+	margin: 5px 10px;
+	padding: 5px;
+
+}
+
+.terms{
+
+	margin: 10px auto;
+	
+	font-size: 8px;
+	letter-spacing: 1px;
+}
+
+.btn{
+
+	display: block;
+	margin: 10px auto;
+	padding: 6px 10px;
+	border: none;
+	color: #050007;
+	text-transform: uppercase;
+	background-color: #009444;
+
+}
+
+.btn:hover{
+
+	cursor: pointer;
+	color: white;
+}
